@@ -1,2 +1,2 @@
-# Resume
-Personal resume for my job applications
+# Curriculum Vitae
+Personal CV for my job applications
